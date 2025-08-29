@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @aurelien-genois
-- 👀 I’m interested in UI/UX design & front-end developpement
-- 🌱 I’m currently reviewing & learning PHP
+- 👀 I’m interested in UI/UX design & Front/Back-end developpement
+- 🌱 I’m currently reviewing & learning JavaScript, React, GraphQL and API Rest with Node.js
 - 💞️ I’m looking to collaborate on web developement
 
 
